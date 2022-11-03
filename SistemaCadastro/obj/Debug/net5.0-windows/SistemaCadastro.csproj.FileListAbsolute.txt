@@ -133,3 +133,30 @@ C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastr
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro 2022 - Modelo Design\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro 2022 - Modelo Design\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\Sistema Cadastro 2022 - Modelo Design\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.exe
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.deps.json
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.json
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Properties.Resources.resources
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.Sistema.resources
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.csproj.CopyComplete
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\refint\SistemaCadastro.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll

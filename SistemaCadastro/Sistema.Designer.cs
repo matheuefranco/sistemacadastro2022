@@ -68,6 +68,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.lblMensagem = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.lblmsgerro = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -581,12 +582,23 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // lblmsgerro
+            // 
+            this.lblmsgerro.AutoSize = true;
+            this.lblmsgerro.ForeColor = System.Drawing.Color.Red;
+            this.lblmsgerro.Location = new System.Drawing.Point(572, 40);
+            this.lblmsgerro.Name = "lblmsgerro";
+            this.lblmsgerro.Size = new System.Drawing.Size(15, 20);
+            this.lblmsgerro.TabIndex = 10;
+            this.lblmsgerro.Text = "*";
+            // 
             // Sistema
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1103, 669);
+            this.Controls.Add(this.lblmsgerro);
             this.Controls.Add(this.lblMensagem);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.button2);
@@ -658,5 +670,6 @@
         private System.Windows.Forms.ComboBox cbGenero;
         private System.Windows.Forms.Button bntAddGenero;
         private System.Windows.Forms.ComboBox cbAlteraGenero;
+        private System.Windows.Forms.Label lblmsgerro;
     }
 }

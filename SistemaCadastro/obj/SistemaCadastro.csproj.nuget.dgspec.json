@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\Sistema Cadastro 2022 - Modelo Design\\SistemaCadastro\\SistemaCadastro.csproj": {}
+    "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\SistemaCadastroBandasAula2022\\SistemaCadastro\\SistemaCadastro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\Sistema Cadastro 2022 - Modelo Design\\SistemaCadastro\\SistemaCadastro.csproj": {
+    "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\SistemaCadastroBandasAula2022\\SistemaCadastro\\SistemaCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\Sistema Cadastro 2022 - Modelo Design\\SistemaCadastro\\SistemaCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\SistemaCadastroBandasAula2022\\SistemaCadastro\\SistemaCadastro.csproj",
         "projectName": "SistemaCadastro",
-        "projectPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\Sistema Cadastro 2022 - Modelo Design\\SistemaCadastro\\SistemaCadastro.csproj",
+        "projectPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\SistemaCadastroBandasAula2022\\SistemaCadastro\\SistemaCadastro.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\Sistema Cadastro 2022 - Modelo Design\\SistemaCadastro\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\OneDrive\\Documentos\\Visual Studio 2019\\Projects\\SistemaCadastroBandasAula2022\\SistemaCadastro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,7 +46,7 @@
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.27, )"
+              "version": "[8.0.31, )"
             }
           },
           "imports": [
