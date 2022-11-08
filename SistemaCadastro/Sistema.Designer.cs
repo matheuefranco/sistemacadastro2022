@@ -586,7 +586,7 @@
             // 
             this.lblmsgerro.AutoSize = true;
             this.lblmsgerro.ForeColor = System.Drawing.Color.Red;
-            this.lblmsgerro.Location = new System.Drawing.Point(572, 40);
+            this.lblmsgerro.Location = new System.Drawing.Point(500, 35);
             this.lblmsgerro.Name = "lblmsgerro";
             this.lblmsgerro.Size = new System.Drawing.Size(15, 20);
             this.lblmsgerro.TabIndex = 10;
