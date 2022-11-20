@@ -119,7 +119,10 @@ namespace SistemaCadastro
 
         private void bntAddGenero_Click(object sender, EventArgs e)
         {
-          
+             FrmAddGenero frmAddGenero = new FrmAddGenero();
+             this.Hide();
+             frmAddGenero.ShowDialog();
+            this.Close();
         }
     }
 }

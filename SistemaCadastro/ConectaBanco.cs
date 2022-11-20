@@ -89,6 +89,28 @@ namespace SistemaCadastro
             }
         }// fim insereBanda
 
+        public bool insereGenero(String genero)
+        {
+            MySqlCommand cmd = new MySqlCommand("insere_genero", conexao);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("genero", genero);
+            try
+            {
+                conexao.Open();
+                cmd.ExecuteNonQuery(); // executa o comando
+                return true;
+            }
+            catch (MySqlException e)
+            {
+                mensagem = "Erro:" + e.Message;
+                return false;
+            }
+            finally
+            {
+                conexao.Close();
+            }
+        }// fim insereBanda
+
 
 
     }

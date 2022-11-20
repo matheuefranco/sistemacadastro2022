@@ -160,3 +160,4 @@ C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastro
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.pdb
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.genruntimeconfig.cache
 C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\ref\SistemaCadastro.dll
+C:\Users\Matheus\OneDrive\Documentos\Visual Studio 2019\Projects\SistemaCadastroBandasAula2022\SistemaCadastro\obj\Debug\net5.0-windows\SistemaCadastro.FrmAddGenero.resources
