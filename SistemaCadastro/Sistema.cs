@@ -13,6 +13,7 @@ namespace SistemaCadastro
 {
     public partial class Sistema : Form
     {
+        int idAlterar; // variavel global
 
         public Sistema()
         {
@@ -48,8 +49,14 @@ namespace SistemaCadastro
             cbGenero.DataSource = tabelaDados;
             cbGenero.DisplayMember = "genero";
             cbGenero.ValueMember = "idgenero";
+            // preenchendo cbAlteraGenero
+            cbAlteraGenero.DataSource = tabelaDados;
+            cbAlteraGenero.DisplayMember = "genero";
+            cbAlteraGenero.ValueMember = "idgenero";
+            //
             lblmsgerro.Text = con.mensagem;
             cbGenero.Text = "";
+            cbAlteraGenero.Text = "";
         }
         void listaBanda()
         {
@@ -120,18 +127,43 @@ namespace SistemaCadastro
                 listaBanda();
             }// fim if ok
             else
-                MessageBox.Show("Operacao cancelada");
+                MessageBox.Show("Operação cancelada");
         }
+
 
         private void btnAlterar_Click(object sender, EventArgs e)
         {
-            
+            int linha = dgBandas.CurrentRow.Index;// pega a linha selecionada
+            idAlterar = Convert.ToInt32(
+              dgBandas.Rows[linha].Cells["idbandas"].Value.ToString());
+           txtAlteraNome.Text = 
+                dgBandas.Rows[linha].Cells["nome"].Value.ToString();
+            txtAlteraIntegrantes.Text =
+                dgBandas.Rows[linha].Cells["integrantes"].Value.ToString();
+            txtAlteraRanking.Text =
+                dgBandas.Rows[linha].Cells["ranking"].Value.ToString();
+            cbAlteraGenero.Text = 
+                dgBandas.Rows[linha].Cells["genero"].Value.ToString();
+            tabControl1.SelectedTab = tabAlterar;// muda aba
         }
 
          private void btnConfirmaAlteracao_Click(object sender, EventArgs e)
         {
-            
+            Banda b = new Banda();
+            b.Nome = txtAlteraNome.Text;
+            b.Ranking = Convert.ToInt32(txtAlteraRanking.Text);
+            b.Integrantes= Convert.ToInt32(txtAlteraIntegrantes.Text);
+            b.Genero = Convert.ToInt32(
+                         cbAlteraGenero.SelectedValue.ToString());
+            // Envia os dados para alterar
+            ConectaBanco conecta = new ConectaBanco();
+            bool retorno = conecta.alteraBanda(b, idAlterar);
+            if (retorno==true)
+                MessageBox.Show("Dados alterados com sucesso");
+            else
+                lblmsgerro.Text = conecta.mensagem;
 
+            listaBanda();
 
         }
 
