@@ -4,6 +4,9 @@
     <Compile Update="FrmAddGenero.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Sistema.cs">
       <SubType>Form</SubType>
     </Compile>
